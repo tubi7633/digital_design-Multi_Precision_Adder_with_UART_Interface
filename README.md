@@ -121,12 +121,3 @@ The internal adder architecture and width are set via parameters in `mp_adder.v`
 
 ### Communicating from the host
 Send two 512-bit operands (64 bytes each) over UART at the configured baud rate, then read back the 513-bit result (66 bytes) for addition or 512-bit (64 bytes) result for subtraction.
-
----
-
-## Authors
-
-- **Dimitrios Kyranos**
-- **Tubi Soyer**
-
-Complex Digital Design course project.
