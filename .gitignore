@@ -1,0 +1,25 @@
+# Vivado generated files
+*.jou
+*.log
+*.str
+*.pb
+*.wdb
+*.wcfg
+*.dcp
+*.bit
+*.ltx
+
+# Vivado project working directories
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/sources_1/bd/*/ip/*/
+*.Xil/
+.Xil/
+*.hbs/
+
+# OS junk
+.DS_Store
+Thumbs.db
