@@ -65,8 +65,6 @@ Performs the actual arithmetic by chunking the 512-bit operands into smaller pie
 - The **RCA** wins on area and power but is unacceptably slow for wide operands.
 - **CSA** and **Hybrid** sit in the middle — a sensible compromise for area-constrained designs that still need decent throughput.
 
-A full discussion (timing reports, power breakdowns, fanout, area utilization) is available in [`cdd_project_report.pdf`](./cdd_project_report.pdf).
-
 ---
 
 ## Repository Structure
