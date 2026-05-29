@@ -2,8 +2,6 @@
 
 A 512-bit multi-precision adder/subtractor implemented on an FPGA (PYNQ-Z2), with a UART interface for communication with a host PC. The project explores and compares four different adder microarchitectures — **Ripple Carry**, **Carry Lookahead (Kogge–Stone)**, **Carry Select**, and a **Hybrid Carry Select–Lookahead** — in terms of speed, area, and power.
 
-Developed as a Complex Digital Design (CDD) lab project by **Dimitrios Kyranos** and **Tubi Soyer**.
-
 ---
 
 ## Overview
